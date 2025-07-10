@@ -54,4 +54,4 @@ Helps identify best-performing products and cities
 Supports data-driven strategic planning
 
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Masud690/Mobile-Sales-Dashboard/blob/main/Sales%20Analysis%20Dashboard.png)
